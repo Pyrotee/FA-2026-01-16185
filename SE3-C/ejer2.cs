@@ -8,5 +8,15 @@ namespace SE3_C
 {
     internal class ejer2
     {
+        static void Main(string[] args)
+        {
+            // Console.Write("Enter name: ");
+            // string nam = Console.ReadLine();
+
+            Console.WriteLine("\"hola\"");
+
+            Console.ReadKey();
+        }
+
     }
 }

@@ -8,5 +8,10 @@ namespace SE3_C
 {
     class ejer1
     {
-    }
+		static void Main(string[] args)
+		{
+
+		}
+
+	}
 }
