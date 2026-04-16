@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1abd09d6-8103-475b-8282-19e728542b5c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ejer2.py</StartupFile>
+    <StartupFile>ejer3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
