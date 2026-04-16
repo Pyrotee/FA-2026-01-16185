@@ -46,11 +46,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ejer2.cs" />
+    <Compile Include="ejer4.cs" />
+    <Compile Include="ejer5.cs" />
+    <Compile Include="ejer6.cs" />
     <Compile Include="ejercicio1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <Compile Include="ejer1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ejer3.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
