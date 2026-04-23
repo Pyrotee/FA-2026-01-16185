@@ -10,6 +10,15 @@ namespace SE3_C
     {
         static void Main(string[] args)
         {
+            Console.Write("Ingrese un numero: ");
+            string num = Console.ReadLine();
+
+            double deci = double.Parse(num);
+            int entero = (int)Math.Round(deci);
+
+
+            Console.WriteLine($"\nEntero % 2: {entero % 2}");
+            Console.WriteLine($"decimal /3: {deci / 3}");
 
         }
 

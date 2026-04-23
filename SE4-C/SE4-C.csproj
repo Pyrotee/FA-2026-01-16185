@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AFC5F92C-7A94-481F-9C3E-7EF01C58A827}</ProjectGuid>
+    <ProjectGuid>{0595725E-3175-4609-9E50-2C04645397E8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SE3_C</RootNamespace>
-    <AssemblyName>SE3-C</AssemblyName>
+    <RootNamespace>SE4_C</RootNamespace>
+    <AssemblyName>SE4-C</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>SE3_C.ejer4</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,19 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ejer2.cs" />
-    <Compile Include="ejer4.cs" />
-    <Compile Include="ejer5.cs" />
-    <Compile Include="ejer6.cs" />
-    <Compile Include="ejercicio1.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <Compile Include="ejer1.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="ejer3.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
