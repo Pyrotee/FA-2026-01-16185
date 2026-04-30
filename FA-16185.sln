@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE4-C", "SE4-C\SE4-C.csproj
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SE4-PY", "SE4-PY\SE4-PY.pyproj", "{545BAA32-67B6-436A-9D48-BA1B522722C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio3", "ejercicio3\ejercicio3.csproj", "{F08D5D0B-1866-445A-AC85-4FF53913A65A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{0595725E-3175-4609-9E50-2C04645397E8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{545BAA32-67B6-436A-9D48-BA1B522722C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{545BAA32-67B6-436A-9D48-BA1B522722C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08D5D0B-1866-445A-AC85-4FF53913A65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08D5D0B-1866-445A-AC85-4FF53913A65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08D5D0B-1866-445A-AC85-4FF53913A65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08D5D0B-1866-445A-AC85-4FF53913A65A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
